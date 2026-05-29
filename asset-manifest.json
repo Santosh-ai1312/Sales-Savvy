@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Sales-Savvy/static/js/main.1dff27ea.js",
+    "main.js": "/Sales-Savvy/static/js/main.cdcc779a.js",
     "index.html": "/Sales-Savvy/index.html",
-    "main.1dff27ea.js.map": "/Sales-Savvy/static/js/main.1dff27ea.js.map"
+    "main.cdcc779a.js.map": "/Sales-Savvy/static/js/main.cdcc779a.js.map"
   },
   "entrypoints": [
-    "static/js/main.1dff27ea.js"
+    "static/js/main.cdcc779a.js"
   ]
 }
