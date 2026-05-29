@@ -1,7 +1,10 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://localhost:8080/api',
+  baseURL: 'https://sales-savvy-7ivm.onrender.com/api',
+  headers: {
+    'Content-Type': 'application/json',
+  },
 });
 
 // Attach JWT token to every request
